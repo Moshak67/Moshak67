@@ -24,7 +24,7 @@ I am a creative problem solver who enjoys finding innovative solutions to comple
 
 <!-- My Portfolio: [https://moshakir.com](https://moshakir.com) -->
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Fmoshakir.com-brightgreen" />]([https://moshakir.com](https://moshakir.vercel.app)) 
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Fmoshakir.com-brightgreen" />](https://moshakir.vercel.app) 
 
 [<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://drive.google.com/file/d/1PzNc8YGMGNKinypDiZ58eiEq2dZXVu3E/view?usp=sharing)
 
